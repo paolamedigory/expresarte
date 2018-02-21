@@ -415,7 +415,7 @@ p {
 }
 
 .panel-body{
-  padding: 6  0px 40px 40px;
+  padding: 6  0px 50px 50px;
 }
 
 .panel-group .panel+.panel{
@@ -436,7 +436,7 @@ p {
 }
 
 .accordion-inner img{
-  border-radius: 50px;
+  border-radius: 54px;
 }
 
 
@@ -446,13 +446,14 @@ p {
 
 .panel-heading.active .panel-title>a{
   color:#fff;
+ 
 }
 
 a.accordion-toggle  i{
-  width: 40px;
-  line-height: 38px;
-  font-size: 20px;
-  margin-top: -10px;
+  width: 50px;
+  line-height: 48px;
+  font-size: 50px;
+  margin-top: 10px;
   text-align: center;
   margin-right: -15px;
   background: #F77CAD;
