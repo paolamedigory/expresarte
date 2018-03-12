@@ -39,14 +39,14 @@ p {
 
 /* --- logo --- */
 .site-logo {	
-	margin-top:70px;
-	margin-bottom:70px;
+	margin-top:60px;
+	margin-bottom:50px;
 
 }
 
 .site-logo a.brand {
 	color: #F77CAD;	
-	font-size: 60px;
+	font-size: 95px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 600;
 
@@ -76,11 +76,12 @@ p {
 }
 
 .navbar-fixed-top ul.nav li a {
-	font-size: 20px;
-	letter-spacing: 7px;
+	font-size: 32px;
+	letter-spacing: 1px;
     color: #000;
 	text-transform: uppercase;
-	font-weight: 500;
+	font-weight: 400;
+
 }
 
 .navbar-fixed-top.top-nav-collapse ul.nav li a {
@@ -107,7 +108,7 @@ p {
 }
 
 .navbar-fixed-top ul.nav ul.dropdown-menu li a {
-	padding: 50px 30px;
+	padding: 70px 30px;
 }
 
 .navbar-fixed-top.top-nav-collapse ul.nav ul.dropdown-menu li a {
@@ -129,8 +130,8 @@ p {
 }
 
 .navbar-toggle {
-    padding: 4px 6px;
-    font-size: 18px;
+    padding: 6px 4px;
+    font-size: 25px;
     color: #000;
 }
 
@@ -159,10 +160,10 @@ p {
 
 #carousel-slider a i {
   border: 1px solid #F77CAD;;
-  border-radius:50%;
-  font-size: 70px;
+  border-radius:60%;
+  font-size: 50px;
   height: 70px;
-  padding: 8px;
+  padding: 7px;
   position: absolute;
   top: 50%;
   width: 50px;
@@ -173,7 +174,7 @@ p {
 #carousel-slider a i:hover {
   background:#F77CAD;
   color:#fff;
-  border: 1px solid #F77CAD;
+  border: 5px solid #F77CAD;
 }
 
 #carousel-slider 
@@ -207,13 +208,15 @@ p {
 
 #portfolio .lead {
 	text-align:center;
-	font-size:60px;
+	font-size:40px;
 	margin-bottom:40px;
+  color: black;
 }
 
 #portfolio {
 	padding-top:50px;
 	position:center;
+
 }
 
 
@@ -390,7 +393,7 @@ p {
 
 #about .lead {
 	text-align:center;
-	font-size:70px;
+	font-size:50px;
 	margin-bottom:50px;
 }
 
@@ -405,7 +408,7 @@ p {
 .panel-default>.panel-heading,
 .panel{
   background-color: #e6e6e6; 
-  border:0 none;
+  border:10 none;
   box-shadow:none;
 }
 
@@ -419,8 +422,8 @@ p {
 }
 
 .panel-group .panel+.panel{
-  margin-top: 0px;
-  border-top: 80px solid #fff;
+  margin-top: 20px;
+  border-top: 70px solid #fff;
 }
 
 .panel-group .panel{
@@ -431,12 +434,17 @@ p {
 	border-radius: 0;
 }
 
+
+.panel-title{
+      font-size: 26px;
+}
+
 .panel-title>a{
   color: #4e4e4e;
 }
 
 .accordion-inner img{
-  border-radius: 54px;
+  border-radius: 10px;
 }
 
 
@@ -450,12 +458,12 @@ p {
 }
 
 a.accordion-toggle  i{
-  width: 50px;
-  line-height: 48px;
-  font-size: 50px;
-  margin-top: 10px;
+  width: 40px;
+  line-height: 60px;
+  font-size: 40px;
+  margin-top: 30px;
   text-align: center;
-  margin-right: -15px;
+  margin-right: -25px;
   background: #F77CAD;
   color:#fff;
 }
@@ -478,7 +486,7 @@ a.accordion-toggle  i{
 
 #features .lead {
 	text-align:center;
-	font-size:18px;
+	font-size:25px;
 	margin-bottom:50px;
 }
 
@@ -519,7 +527,7 @@ a.accordion-toggle  i{
 .contact-page .contact-form 
 .form-group label {
   color: #4E4E4E;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
 }
 
