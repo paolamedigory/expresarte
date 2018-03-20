@@ -590,7 +590,7 @@ textarea#message{
 
 /* seccion pinturas*/
 
-#about .pinturas h2{
+.pinturas .center h2{
     font-size: 80px;
     margin-top: 150px;
     margin-bottom: 10px;
@@ -601,3 +601,11 @@ textarea#message{
   
 }
 
+
+
+/* seccion terapia con arte */
+.terapia .lead h2 {
+
+text-align: left;
+
+}
