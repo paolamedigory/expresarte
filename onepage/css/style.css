@@ -393,7 +393,7 @@ p {
 
 #about .lead {
 	text-align:center;
-	font-size:50px;
+	font-size:40px;
 	margin-bottom:50px;
 }
 
@@ -461,7 +461,7 @@ a.accordion-toggle  i{
   width: 40px;
   line-height: 60px;
   font-size: 40px;
-  margin-top: 30px;
+  margin-top: 10px;
   text-align: center;
   margin-right: -25px;
   background: #F77CAD;
@@ -587,3 +587,17 @@ textarea#message{
 	font-size:30px;
 
 }
+
+/* seccion pinturas*/
+
+#about .pinturas h2{
+    font-size: 80px;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #000;
+    text-transform: uppercase;
+
+  
+}
+
