@@ -217,6 +217,7 @@ p {
 	padding-top:50px;
 	position:center;
 
+
 }
 
 
@@ -614,4 +615,48 @@ text-align: left;
 
 /* seccion musica*/
 
+
+#musica .musica-button{
+    
+    top: 80;
+    left: 145px;
+    right: 145px;
+    bottom: 1000;
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+
+}
+
+
+#musica .track-row-info .track-artist {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 13px;
+    font-size: 22px;
+    color: #a0a0a0;
+  }
+
+  #portfolio .container h2{
+text-align: right;
+
+  }
+
+
+  /* Terapia cin arte */
+/* no se actualiza */
+ #terapia .center h2 {
+      text-align: left;
+       font-size: 80px;
+      margin-bottom:50px;
+  }
+
+  *{
+
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+  }
 
