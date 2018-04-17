@@ -591,6 +591,12 @@ textarea#message{
 
 /* seccion pinturas*/
 
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
+
 .pinturas .center h2{
     font-size: 80px;
     margin-top: 150px;
@@ -598,7 +604,6 @@ textarea#message{
     text-align: center;
     color: #000;
     text-transform: uppercase;
-
   
 }
 
@@ -663,7 +668,6 @@ text-align: center;
 
 margin: 0;
 padding: 0;
-list-style: none;
 text-decoration: none;
   }
 
@@ -677,3 +681,31 @@ text-decoration: none;
     -webkit-transition: background-color .4s;
     transition: background-color .4s;
 }
+
+#terapia.about-benefits .center h2{
+
+text-align: center;
+       font-size: 80px;
+      margin-bottom:50px;
+       padding-top: 20px;
+       color: black;
+
+      }
+
+.container #info p{
+ color: black;
+ 
+}
+
+
+
+.container .row ul{
+
+text-align: left;
+       font-size: 35px;
+      margin-bottom:50px;
+       padding-top: 50px;
+       color: black;
+      
+      }
+
